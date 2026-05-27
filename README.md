@@ -1,14 +1,14 @@
 # Sistema de Gestión de Nómina (Práctica de Programación 2)
 
 **Estudiante:** Franklyn Enmanuel Santana Rodriguez  
-**Matrícula:** 2025 2'90  
+**Matrícula:** 2025 2089 
 **Tecnología:** C# .NET 8 (Aplicación de consola)
 
 Este proyecto es una aplicación de consola en C# diseñada bajo los principios de la Programación Orientada a Objetos (POO) y el enfoque KISS (Keep It Simple, Stupid). Gestiona el registro y cálculo de nómina de diferentes tipos de empleados utilizando polimorfismo y herencia.
 
 ---
 
-## 🛠️ Estructura y Conceptos del Proyecto
+##  Estructura y Conceptos del Proyecto
 
 El sistema utiliza las siguientes clases:
 *   **`Empleado.cs` (Clase Abstracta):** Define los atributos comunes de todo empleado (Nombre, Apellido, Seguro Social) y obliga a las clases hijas a implementar el método abstracto `CalcularPago()`.
@@ -20,7 +20,7 @@ El sistema utiliza las siguientes clases:
 
 ---
 
-## 🚀 Cómo Ejecutar el Proyecto
+##  Cómo Ejecutar el Proyecto
 
 1. Asegúrate de tener instalado el **.NET 8 SDK**.
 2. Abre una terminal en la carpeta raíz del proyecto.
@@ -31,17 +31,16 @@ El sistema utiliza las siguientes clases:
 
 ---
 
-## 📸 ¿Dónde colocar imágenes/capturas de pantalla?
 
-Si deseas agregar capturas de pantalla de la aplicación funcionando a este archivo de descripción:
+<img width="579" height="196" alt="image" src="https://github.com/user-attachments/assets/738719b0-77c3-4f89-baa0-168450ea7d4c" />
 
-1. Crea una carpeta llamada `imagenes` en la raíz del proyecto.
-2. Guarda tus imágenes ahí (por ejemplo, `reporte.png` o `menu.png`).
-3. Enlázalas en este archivo `README.md` usando la siguiente sintaxis de Markdown:
+<img width="651" height="418" alt="image" src="https://github.com/user-attachments/assets/ed027827-b39a-45bc-9f0b-9b795d574886" />
+<img width="592" height="441" alt="image" src="https://github.com/user-attachments/assets/0c3da0e5-63f5-40fe-8e69-3ae357871901" />
+<img width="602" height="425" alt="image" src="https://github.com/user-attachments/assets/4572baa0-1355-4db5-a36a-65ba955b5d8f" />
+<img width="700" height="455" alt="image" src="https://github.com/user-attachments/assets/7aba40a9-42e3-4280-9a36-036fbf63a942" />
+<img width="819" height="546" alt="image" src="https://github.com/user-attachments/assets/12522bab-48a4-497d-bc65-81b7a07ab069" />
+<img width="860" height="785" alt="image" src="https://github.com/user-attachments/assets/f5272c44-e6bc-4664-b89e-bacbc9e0df84" />
 
-```markdown
-![Menú Principal](imagenes/menu.png)
-![Reporte Semanal](imagenes/reporte.png)
 ```
 
-*(Puedes borrar esta sección una vez que agregues tus imágenes).*
+
