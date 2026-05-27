@@ -1,0 +1,14 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Configuraciones de VS/Code
+.vs/
+.vscode/
+.idea/
+
+# Archivos de usuario y temporales
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
